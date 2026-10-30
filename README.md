@@ -107,6 +107,8 @@ The following table contains the configuration details of the laboratory.
 
 # 🪜 6. Implementation Process
 
+![](kali-network-setup.jpg)
+
 ## Step 1: Install VirtualBox
 
 First, I installed Oracle VirtualBox on my Windows machine.
