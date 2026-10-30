@@ -17,7 +17,7 @@ The main idea behind this setup is to have a dedicated environment where I can e
 
 This environment can also be expanded in the future by adding more virtual machines to perform authorised security testing.
 
-![](1-KALI-homepage-image .png)
+![](kali-setup.png)
 
 
 ## 🎯 2. Project Objectives
