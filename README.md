@@ -107,7 +107,7 @@ The following table contains the configuration details of the laboratory.
 
 # 🪜 6. Implementation Process
 
-![](kali-network-setup.jpg)
+![](kali-setup.png)
 
 ## Step 1: Install VirtualBox
 
@@ -132,7 +132,7 @@ IPv6:         Disabled
 
 I selected NAT Network because it allows multiple virtual machines connected to the same network to communicate with each other while also supporting outbound internet connectivity.
 
-![NAT Network Configuration](2-screenshot-network-settings-1.png)
+![NAT Network Configuration](network-setting.jpg)
 
 ---
 
@@ -159,7 +159,7 @@ RAM: 2048 MB
 
 I also configured a shared folder to make file transfers between Windows and Kali Linux easier.
 
-![Kali Linux Virtual Machine](3-screenshot-kali-linux.png)
+![Kali Linux Virtual Machine](kali-network-setup.jpg)
 
 ---
 
