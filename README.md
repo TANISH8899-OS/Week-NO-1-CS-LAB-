@@ -81,6 +81,7 @@ The Kali VM connects to a dedicated NAT Network. Additional virtual machines can
 ```
 
 ---
+![](network-setting.jpg)
 
 ## ⚙️ 5. Lab Configuration
 
