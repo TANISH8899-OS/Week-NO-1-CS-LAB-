@@ -159,7 +159,7 @@ RAM: 2048 MB
 
 I also configured a shared folder to make file transfers between Windows and Kali Linux easier.
 
-![Kali Linux Virtual Machine](kali-network-setup.jpg)
+
 
 ---
 
@@ -178,7 +178,7 @@ DNS Server:    8.8.8.8
 
 Using a consistent IP address makes it easier to identify the Kali machine during future security exercises.
 
-![Kali Network Configuration](4-screenshot-kali-network-settings.png)
+![Kali Linux Virtual Machine](kali-network-setup.jpg)
 
 ---
 
